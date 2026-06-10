@@ -1,0 +1,7 @@
+aiohttp>=3.9
+opencv-python>=4.8
+numpy>=1.24
+pyvirtualcam>=0.11
+cryptography>=42.0
+qrcode[pil]>=7.4
+Pillow>=10.0
